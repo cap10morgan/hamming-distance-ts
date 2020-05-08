@@ -4,7 +4,7 @@ Hamming distance in TypeScript.
 
 ## Motivation
 
-There are other pure JS hamming distance libraries out there that I could have written a TypeScript declration file for, but I wanted to learn about writing and publishing TypeScript libraries and I needed hamming distance computation for another project.
+There are other pure JS hamming distance libraries out there that I could have written a TypeScript declaration file for, but I wanted to learn about writing and publishing TypeScript libraries and I needed hamming distance computation for another project.
 
 ## Installation
 
