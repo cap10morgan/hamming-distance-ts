@@ -1,6 +1,6 @@
 {
   "name": "hamming-distance-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hamming distance in TypeScript",
   "repository": {
     "type": "git",
