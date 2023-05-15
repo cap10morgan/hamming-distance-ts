@@ -14,7 +14,7 @@
   "author": "Wes Morgan",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^18.11.11"
+    "@types/node": "^20.1.4"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
